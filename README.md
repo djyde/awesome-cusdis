@@ -6,6 +6,10 @@ A curated list of awesome things related to [Cusdis](https://cusdis.com).
 
 ## Community Resources
 
+### Integrations
+
+- [Cusdis for Datenstrom Yellow](https://github.com/schulle4u/yellow-cusdis)
+
 ### Posts
 
 - [自建、免费、开源的评论系统解决方案](https://frostming.com/2021/04-28/self-host-comment-system/)
